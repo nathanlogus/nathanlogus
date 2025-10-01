@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nathan Ribeiro 👋
 
-<!--
-**nathanlogus/nathanlogus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with a big love for **Front-end** and **Design Systems** 🎨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Key Technologies
+* **Languages:** **`TypeScript`**, `JavaScript`, `HTML5`, `SCSS`, `Java`, `Python`
+* **Frameworks:** **`Angular`**, `Node.js`, `Springboot`, `FastAPI`
+* **Tooling/Architecture:** **`Nx`**, `NGRX`, `Jest`, `Cypress`, `Docker/Kubernetes`
+* **Cloud:** **`AWS`**, `Azure`
+
+### 💬 Connect
+Reach out if you want to collaborate or talk tech!
+
+* **LinkedIn:** [https://www.linkedin.com/in/nathanlogus/](https://www.linkedin.com/in/nathanlogus/)
+* **Email:** nathanpirral@gmail.com
