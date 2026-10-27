@@ -13,5 +13,6 @@ Software Engineer with a big love for **Front-end** and **Design Systems** 🎨
 ### 💬 Connect
 Reach out if you want to collaborate or talk tech!
 
+* **Website:** [https://nathanribeiro.pages.dev/]
 * **LinkedIn:** [https://www.linkedin.com/in/nathanlogus/](https://www.linkedin.com/in/nathanlogus/)
 * **Email:** nathanpirral@gmail.com
